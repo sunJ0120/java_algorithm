@@ -32,7 +32,7 @@ public class P1546_평균구하기 {
 		}
 		
 		answer = sAnswer/N;
-		
+	
 		System.out.println(answer);
 	
 	}
