@@ -2,6 +2,10 @@ package 배열과리스트001.구간합구하기;
 
 import java.util.Scanner;
 
+/**
+ * 1차 복습 성공 = Scanner 사용법만 내일 정리하기
+ */
+
 public class 백준_11660_1차복습{
 
     public static void main(String[] args) {
