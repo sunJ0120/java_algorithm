@@ -38,7 +38,6 @@ public class 백준_10986_해답 {
                 answer = answer + (C[i] * (C[i] -1 )/2);
             }
         }
-
         System.out.println(answer);
     }
 }
